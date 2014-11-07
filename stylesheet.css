@@ -1,0 +1,28 @@
+body{
+	background-color: 	#DBD9D9;
+
+}
+
+
+
+#mainwrapper{
+	background-color: #F2EFEF;
+}
+
+#leftside{
+	float: left;
+	margin-left: 2px;
+	margin-left: 2px;
+	width: 200px;
+	height: 800px;
+}
+
+
+
+#middle{
+	
+	
+	width:auto;
+	height: 800px;
+	
+}
